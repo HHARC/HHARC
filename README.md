@@ -1,18 +1,98 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Front-end Projects<br>🌱 I’m currently learning React.js<br>💬 Ask me about Front-end developmet<br>⚡ Fun fact I am also a tech-writer
+Hi, I'm Hamza Abdul Rauf 👋
 
+Co-Founder & Web Developer at Roll With Code
+I am a MERN Stack Developer who helps you build scalable, high-performance web applications and full-stack products that drive growth and engagement.
+
+Open to work 🎉
+
+## 👨‍💻 What I Do
+I build scalable, high-performance web solutions that transform business ideas into reality. With expertise in React, Node.js, and full-stack development, I've delivered 50+ projects including SaaS platforms, ecommerce stores, investment dashboards, and modern web applications that drive real value.
+
+## 🧩 Experience
+Jan 2025 - Present
+Co-Founder & Web Developer
+Roll With Code · Full-time
+
+Apr 2024 - Apr 2025
+Frontend Web Developer
+Codesinc · Full-time
+
+## 🚀 Selected Projects
+### Electricity Tracking Platform
+Built a comprehensive electricity tracking platform for hotels to monitor usage, optimize consumption, and reduce costs. Features real-time monitoring, detailed analytics, and billing integration.
+
+- Category: Energy Management
+- Client: DSO Technologies
+- Tags: React, Django
+- Launched: 2025
+
+### Ultimate Pro
+Developed an investment management platform enabling users to track portfolios, analyze market trends, and manage investments. Built with React frontend and Django backend for robust performance.
+
+- Category: Investment Platform
+- Client: Financial Services
+- Tags: React, Django
+- Launched: 2025
+
+### Dynamic Furniture Store
+Created a full-featured furniture ecommerce platform with product catalogs, advanced filtering, shopping cart, and secure checkout. Built with Django backend and React frontend for seamless user experience.
+
+- Category: Ecommerce
+- Client: Retail Furniture
+- Tags: Django, React
+- Launched: 2025
+
+### Reve Living
+Designed and built an elegant ecommerce platform for a luxury furniture brand specializing in premium beds and home furnishings. Features product showcase, detailed specifications, and seamless ordering experience.
+
+- Category: Luxury Furniture
+- Client: Reve Living
+- Tags: Next.js, Node.js
+- Launched: 2025
+
+### House of Serene
+Built a custom rugs and home decor ecommerce store with product catalogs, customization options, and seamless shopping experience. Developed with WordPress for easy management and flexibility.
+
+- Category: Ecommerce
+- Client: House of Serene
+- Tags: WordPress
+- Launched: 2025
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Hamza-Rauf/pfbid0a26rbv75PjZ6cXC6oz3N57Hf188KhAfpNHuf6xHGBBNdQNGnEGbouUJ5Gyo9dPQkl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_h.a.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamza-abdul-rauf/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-abdul-rauf/) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/HHARC) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_h.a.r)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HHARC&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HHARC&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HHARC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Shopify](https://img.shields.io/badge/shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+
+## 🧭 Live Website Showcase
+A selection of client websites I built with my styling and development approach.
+
+DDC Contracting · Roll With Code · Leo Design Solution · DSO Technologies · Palmy · Antra Vercel · Robert Flores Law Firm · Reve Living · Larry Construction · Antra · Orlash · Purple Box Outreach
+
+## 💬 Testimonials
+"Hamza delivered an exceptional investment platform for our financial services team. His React and Django expertise brought our complex requirements to life with clean, maintainable code."
+
+Sarah M., Financial Services Manager
+
+"Working with Hamza on our furniture ecommerce store was fantastic. He understood our vision and delivered a seamless shopping experience that our customers love. Highly recommend!"
+
+David K., Retail Business Owner
+
+"We hired Hamza to rebuild our app UI in Nuxt.js, a framework he'd never used before. He learned it quickly and delivered a polished, user-friendly experience that exceeded expectations."
+
+Alex P., Palmy.io Founder
+
+"Hamza's full-stack skills are impressive. He built our electricity tracking platform with real-time monitoring and analytics. Professional, responsive, and delivered on time."
+
+Michael R., DSO Technologies
+
+## 📬 Contact
+Ready to bring your product to life? Let's connect and build a clean, scalable web experience.
+
+Let's Talk · Get In Touch · Download CV
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HHARC&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Portfolio: https://hamzaabdulrauf.vercel.app/
